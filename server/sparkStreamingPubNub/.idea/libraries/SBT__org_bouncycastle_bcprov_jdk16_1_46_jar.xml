@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: org.bouncycastle:bcprov-jdk16:1.46:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.bouncycastle/bcprov-jdk16/jars/bcprov-jdk16-1.46.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.bouncycastle/bcprov-jdk16/docs/bcprov-jdk16-1.46-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.bouncycastle/bcprov-jdk16/srcs/bcprov-jdk16-1.46-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
