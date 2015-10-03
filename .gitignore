@@ -1,2 +1,4 @@
 *.jar
 *.class
+server/sparkStreamingPubNub/target/*
+server/sparkStreamingPubNub/idea/*
